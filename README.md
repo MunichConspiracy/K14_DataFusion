@@ -1,5 +1,6 @@
 # K14_DataFusion
-Data-Fusion chip project from scratch. The scope and the goals are still t.b.d.
+RISC-V Data-Fusion chip project from scratch. The scope and the goals are still t.b.d.
+
 
 
 
